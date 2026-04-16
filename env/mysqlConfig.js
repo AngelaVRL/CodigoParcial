@@ -1,14 +1,14 @@
 const configh = {
     host: 'localhost',
     user: 'root',
-    password: 'Multicampus4',
+    password: 'root',
     database: 'db_heritage'
 };
 
 const configr = {
     host: 'localhost',
     user: 'root',
-    password: 'Multicampus4',
+    password: 'root',
     database: 'db_reservations'
 };
 
